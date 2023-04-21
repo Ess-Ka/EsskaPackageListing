@@ -12,6 +12,10 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
+    "githubRepos":[
+        "Ess-Ka/EsskaAV3Obfuscator",
+        "Ess-Ka/EsskaAnimatorMaintenance"
+    ],    
     "packages":[
         {
             "name":"com.esska.av3obfuscator",
