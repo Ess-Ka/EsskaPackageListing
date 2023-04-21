@@ -1,4 +1,4 @@
-# Esska Package Listing
+# Esska Packages
 
  To add this listing to your VCC (VRChat Creator Companion), do the following
 
