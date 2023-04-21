@@ -3,7 +3,6 @@
     "id":"com.esska.package-listing",
     "url":"https://ess-ka.github.io/EsskaPackageListing/index.json",
     "author":{
-        "email":"",
         "name":"Esska",
         "url":"https://github.com/Ess-Ka"
     },
@@ -16,19 +15,5 @@
     "githubRepos":[
         "Ess-Ka/EsskaAV3Obfuscator",
         "Ess-Ka/EsskaAnimatorMaintenance"
-    ],
-    "packages":[
-        {
-            "name":"com.esska.av3obfuscator",
-            "releases":[
-                "https://github.com/Ess-Ka/EsskaAV3Obfuscator/releases/download/v2.0.2/com.esska.av3obfuscator-2.0.2.zip"
-            ]
-        },
-        {
-            "name":"com.esska.animator-maintenance",
-            "releases":[
-                "https://github.com/Ess-Ka/EsskaAnimatorMaintenance/releases/download/v2.0.0/com.esska.animator-maintenance-2.0.0.zip"
-            ]
-        }
     ]
 }
