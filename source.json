@@ -1,27 +1,33 @@
 {
-    "name":"Example Listing",
+    "name":"Esska Package Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://ess-ka.github.io/EsskaPackageListing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"",
+        "name":"Esska",
+        "url":"https://github.com/Ess-Ka"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Esska listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/Ess-Ka/EsskaPackageListing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "Ess-Ka/EsskaAV3Obfuscator",
+        "Ess-Ka/EsskaAnimatorMaintenance"
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.esska.av3obfuscator",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/Ess-Ka/EsskaAV3Obfuscator/releases/download/v2.0.2/com.esska.av3obfuscator-2.0.2.zip"
+            ]
+        },
+        {
+            "name":"com.esska.animator-maintenance",
+            "releases":[
+                "https://github.com/Ess-Ka/EsskaAnimatorMaintenance/releases/download/v2.0.0/com.esska.animator-maintenance-2.0.0.zip"
             ]
         }
     ]
